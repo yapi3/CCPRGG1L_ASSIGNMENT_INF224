@@ -33,9 +33,8 @@ public class Assignment2 {
     }
 
     //char array reverse
-    String[] myFirstname = {"A","I","H","P","O","Z"}; 
-        for (int counter = 0; counter < myFirstname.length; counter++) {
-            System.out.println(myFirstname[counter]);
+         for (int counter = 5; counter >= 0; counter--) {
+            System.out.println(myfirstname[counter]);
     }
 }
 }
